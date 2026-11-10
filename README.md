@@ -1,4 +1,4 @@
-# Songs of Distress: Audio-Reactive Visual
+# VISUAL-TEST
 
 A live-coded, audio-reactive visual built with [Hydra](https://hydra.ojack.xyz) and [Tone.js](https://tonejs.github.io/). A looping track plays while its frequency data drives a glitchy kaleidoscope with a central logo that pulses to the music.
 

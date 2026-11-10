@@ -60,6 +60,4 @@ Both load at runtime, so there's nothing to install:
 - Kak Andra who's given me the opportunity to have this presented at a 97Kobolab.
 - Friends who have watched me cringe out at my own creation while also holding out a really big laugh at it.
 - Moxa, who sparked this entire project by keeping jokingly encouraging me to actually make it happen in the first place.
-- Music: <!-- PLEASUREKILLER / Songs Of Distress -->
-- Logo image: <!-- [[source](https://raw.githubusercontent.com/AMIA322002/visual-test/main/pleasurekiller.png)] -->
 - Built with [Hydra](https://github.com/hydra-synth/hydra) by Olivia Jack and [Tone.js](https://github.com/Tonejs/Tone.js)
